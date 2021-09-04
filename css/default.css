@@ -1,0 +1,7 @@
+body{
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,105,121,1) 29%, rgba(151,255,0,1) 100%);
+}
+/* * means everything */
+*{
+  font-family: 'Noto Serif KR', serif;
+}
